@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <filter id="a" width="371.7%" height="371.7%" x="-135.9%" y="-135.9%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="13.585"/>
+        </filter>
+    </defs>
+    <circle cx="940" cy="249" r="15" fill="#D8D8D8" fill-rule="nonzero" filter="url(#a)" transform="translate(-893 -202)"/>
+</svg>
